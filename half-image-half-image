@@ -1,0 +1,7 @@
+    <!-- Half Image & Half Image -->
+        <div class="blog-block half-image-image" id="half-image-image">
+            <!-- Edit Between Here -->
+                <img width="100%" src="image.url" />
+                <img width="100%" src="image.url" />
+            <!-- -->
+        </div>
