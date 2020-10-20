@@ -7,3 +7,9 @@
 - Half Text / Half Image
 - Half Image / Half Text
 
+## Steps
+<p>Follow the below steps to generate your article </p>
+
+1. Create your blog article.
+1. Browse for the 'container.html' on github. Copy and paste the entire snippet. 
+1. Item 3
