@@ -11,5 +11,5 @@
 <p>Follow the below steps to generate your article </p>
 
 1. Create your blog article.
-1. Browse for the 'container.html' on github. Copy and paste the entire snippet. 
+1. Browse for the '[container.html](https://github.com/everaustralia/article-2020-q4/blob/main/container.html)' on github. Copy and paste the entire snippet. 
 1. Item 3
