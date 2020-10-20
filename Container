@@ -1,9 +1,12 @@
 <!-- Title -->
   <h1 class="blog-title"> Custom Blog Title Name</h1>
 
-<!-- START Container -->
   <div class="blog-content">
-
-
+    
+    <!-- START Insert Blocks -->
+    
+    
+    <!-- END Insert Blocks -->
+    
   </div>
-<!-- END Container -->
+  <!-- Nothing Under Here -->
