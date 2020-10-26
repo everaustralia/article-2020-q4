@@ -11,5 +11,6 @@
 <p>Follow the below steps to generate your article </p>
 
 1. Create your blog article.
-1. Browse for the '[container.html](https://github.com/everaustralia/article-2020-q4/blob/main/container.html)' on github. Copy and paste the entire snippet. <br>Take note of the comments inside the container. You will need to paste all your your blocks between the START & END Insert Blocks.
-1. 
+1. Browse for the '[container.html](https://github.com/everaustralia/article-2020-q4/blob/main/container.html)' on github. Copy and paste the entire snippet. <br>NOTE: Take note of the comments inside the container. You will need to paste all your your blocks between the START & END Insert Blocks.
+1. Update the H1 tag to the correct title. Keep this title short and keyword friendly (avoid stopwords & any misleading titles)
+1. Next, open your desired block. Copy and paste it between the container comment tags. Update any text, image links or hyperlinks as required.
